@@ -1,0 +1,8 @@
+<map id="component" name="component">
+<area shape="rect" id="node1" title=" " alt="" coords="163,5,269,332"/>
+<area shape="rect" id="node2" href="$classthree_terminal.html" title=" " alt="" coords="87,380,207,545"/>
+<area shape="rect" id="node5" href="$classtwo_terminal.html" title=" " alt="" coords="231,395,342,531"/>
+<area shape="rect" id="node3" href="$class_nmos.html" title=" " alt="" coords="5,593,93,685"/>
+<area shape="rect" id="node4" href="$class_pmos.html" title=" " alt="" coords="117,593,205,685"/>
+<area shape="rect" id="node6" href="$classresistor.html" title=" " alt="" coords="243,593,331,685"/>
+</map>

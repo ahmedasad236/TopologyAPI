@@ -1,0 +1,3 @@
+D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/CMakeFiles/TopologyAPI.dir
+D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+<map id="threeTerminal" name="threeTerminal">
+<area shape="rect" id="node1" title=" " alt="" coords="45,380,165,545"/>
+<area shape="rect" id="node3" href="$class_nmos.html" title=" " alt="" coords="5,593,93,685"/>
+<area shape="rect" id="node4" href="$class_pmos.html" title=" " alt="" coords="117,593,205,685"/>
+<area shape="rect" id="node2" href="$classcomponent.html" title=" " alt="" coords="52,5,159,332"/>
+</map>

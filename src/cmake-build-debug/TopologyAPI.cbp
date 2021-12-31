@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="TopologyAPI"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TopologyAPI">
+				<Option output="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/TopologyAPI.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 TopologyAPI"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TopologyAPI/fast">
+				<Option output="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/TopologyAPI.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 TopologyAPI/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/JsonIO.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/JsonIO.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/Nmos.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/Nmos.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/Pmos.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/Pmos.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/component.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/component.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/main.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/resistor.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/resistor.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/threeTerminal.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/threeTerminal.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/topoController.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/topoController.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/topology.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/topology.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/twoTerminal.cpp">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/twoTerminal.h">
+			<Option target="TopologyAPI"/>
+		</Unit>
+		<Unit filename="D:/Ahmed/Interns/Master Micro/Task_2/TopologyAPI/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
