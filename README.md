@@ -10,10 +10,10 @@
 
 ### Class  Hierarchy
 
-![image](.\snapshots\hierarchy.png)
+![image](./snapshots/hierarchy.png)
 
 ### Run Samples 
-![image](.\snapshots\run.png)
+![image](./snapshots/run.png)
 
-![image](.\snapshots\sec_run.png)
+![image](./snapshots/sec_run.png)
 
